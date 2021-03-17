@@ -1,0 +1,5 @@
+go.mod提供了module、require、replace和exclude四个命令
+module 指定包的名字
+require 指定依赖项模块
+replace 替换依赖项模块
+exclude 忽略依赖项模块
